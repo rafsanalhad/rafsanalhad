@@ -8,10 +8,10 @@ on:
   # Manually trigger the workflow
   workflow_dispatch:
 
-  # Run on every push on master branch
+  # Run on every push on main branch
   push:
     branches:
-      - master
+      - main
 
 jobs:
   generate:
