@@ -44,9 +44,9 @@
 <div align="center">
     <h3>🟩 Contributions 🟩</h3>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gin-Arata/Gin-Arata/output/github-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gin-Arata/Gin-Arata/output/github-snake.svg" />
-        <img alt="github-snake" src="https://raw.githubusercontent.com/Gin-Arata/Gin-Arata/output/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafsanalhad/rafsanalhad/output/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafsanalhad/rafsanalhad/output/github-snake.svg" />
+        <img alt="github-snake" src="https://raw.githubusercontent.com/rafsanlahad/rafsanalhad/output/github-snake-dark.svg" />
     </picture>
 </div>
 
@@ -54,9 +54,9 @@
 
 <h3 align="center">⚡ Stats ⚡</h3>
 <div style="width: 430px; display: flex; justify-content: between; align-items: center;">
-    <a href="https://git.io/streak-stats"><img width="420" height="185" src="https://streak-stats.demolab.com?user=Gin-Arata&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img width="420" height="185" src="https://streak-stats.demolab.com?user=rafsanalhad&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width="420" height="185" src="https://github-readme-stats-gin-aratas-projects.vercel.app//api?username=Gin-Arata&theme=vision-friendly-dark&show_icons=true&rank_icon=github&hide_border=true" />
+        <img width="420" height="185" src="https://github-readme-stats-rafsanalhads-projects.vercel.app//api?username=rafsanalhad&theme=vision-friendly-dark&show_icons=true&rank_icon=github&hide_border=true" />
     </a>
 </div>
 
