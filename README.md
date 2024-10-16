@@ -28,15 +28,15 @@
         <a href="https://www.linkedin.com/in/harafsan-alhad/">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
-        <a href="https://www.instagram.com/ralhad07">
+        <a href="https://www.instagram.com/ralhad_07">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
         </a>
         <a href="https://www.rafsan.my.id">
             <img src="https://img.shields.io/badge/My%20Website-2694E8?style=for-the-badge&logo=webtrees&logoColor=ffffff" alt="My Website" />
         </a>
-        <a href="https://www.discordapp.com/users/720485692987408415">
+<!--         <a href="https://www.discordapp.com/users/720485692987408415">
             <img src="https://dcbadge.limes.pink/api/shield/720485692987408415" />
-        </a>
+        </a> -->
     </div>
 </div>
 
