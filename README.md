@@ -1,3 +1,4 @@
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rafsanalhad.rafsanalhad" />
 
 <h1 align="center">
@@ -46,7 +47,7 @@
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafsanalhad/rafsanalhad/output/github-snake-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafsanalhad/rafsanalhad/output/github-snake.svg" />
-        <img alt="github-snake" src="https://raw.githubusercontent.com/rafsanlahad/rafsanalhad/output/github-snake-dark.svg" />
+        <img alt="github-snake" src="https://raw.githubusercontent.com/rafsanalhad/output/github-snake-dark.svg" />
     </picture>
 </div>
 
@@ -56,21 +57,7 @@
 <div style="width: 430px; display: flex; justify-content: between; align-items: center;">
     <a href="https://git.io/streak-stats"><img width="420" height="185" src="https://streak-stats.demolab.com?user=rafsanalhad&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width="420" height="185" src="https://github-readme-stats-rafsanalhads-projects.vercel.app//api?username=rafsanalhad&theme=vision-friendly-dark&show_icons=true&rank_icon=github&hide_border=true" />
+        <img width="420" height="185" src="https://github-readme-stats.vercel.app/api?username=rafsanalhad&theme=vision-friendly-dark&show_icons=true&rank_icon=github&hide_border=true" />
     </a>
 </div>
 
-<!--
-**Gin-Arata/Gin-Arata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
