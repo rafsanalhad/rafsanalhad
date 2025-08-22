@@ -7,7 +7,7 @@
     </a>
 </h1>
 
-<h3 align="center">Fullstack Developer | Game Developer | Cyber Security | from Indonesia</h3>
+<h3 align="center">Fullstack Developer | Game Developer | Cyber Security </h3>
 
 <br/>
 
