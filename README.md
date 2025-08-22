@@ -29,7 +29,7 @@ I love building **fullstack applications**, experimenting with **game developmen
 ## 🚀 Featured Projects  
 Here are some cool things I’ve built:
 
-- 🎮 [Game Project](https://github.com/rafsanalhad/game-project) – Unity game with online leaderboard  
+- 🎮 [Game Project](https://rafsanalhad.itch.io/) – Unity game with online leaderboard  
 - 🌐 [Portfolio Website](https://rafsanalhad.vercel.app) – Built with Next.js & TailwindCSS  
 - 🔐 [Cyber Tools](https://github.com/rafsanalhad/cyber-tools) – Custom security scripts for pentesting  
 
