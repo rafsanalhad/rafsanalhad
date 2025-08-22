@@ -7,12 +7,12 @@
     </a>
 </h1>
 
-<h3 align="center">Fullstack Developer | Game Developer | Cyber Security from Indonesia</h3>
+<h3 align="center">Fullstack Developer | Game Developer | Cyber Security | from Indonesia</h3>
 
 <br/>
 
 <div align="center">
-    🔭 I’m currently developing on <b>Detecting <a href="https://techiets.com/">Techiets</a>a></b>
+    🔭 I’m currently developing on <b><a href="https://techiets.com/">Techiets</a></b>
     <br/>
     🌱 I’m currently learning <b>Express.js, Next.js, and Python</b>
     <br/>
@@ -25,7 +25,7 @@
     <h3>📖 Contact 📖</h3>
     <p>Feel free to reach out me in social media below</p>
     <div>
-        <a href="https://www.linkedin.com/in/harafsan-alhad/">
+        <a href="https://www.linkedin.com/in/ralhad/">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
         <a href="https://www.instagram.com/ralhad_07">
