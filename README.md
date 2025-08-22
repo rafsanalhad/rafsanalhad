@@ -7,12 +7,12 @@
     </a>
 </h1>
 
-<h3 align="center">An Enthusiast Web & Mobile Developer from Indonesia</h3>
+<h3 align="center">Fullstack Developer | Game Developer | Cyber Security from Indonesia</h3>
 
 <br/>
 
 <div align="center">
-    🔭 I’m currently working on <b>Detecting Resume Project</b>
+    🔭 I’m currently developing on <b>Detecting <a href="https://techiets.com/">Techiets</a>a></b>
     <br/>
     🌱 I’m currently learning <b>Express.js, Next.js, and Python</b>
     <br/>
