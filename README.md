@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍💻 About Me  
-Hi, I'm **Harafsan Alhad**, a passionate developer from **Indonesia 🇮🇩**.  
+Hi, I'm **Harafsan Alhad**, a passionate fullstack developer from **Indonesia**.  
 I love building **fullstack applications**, experimenting with **game development**, and exploring the world of **cyber security**.  
 
 - 🔭 Currently working on **[Techiets](https://techiets.com/)**  
