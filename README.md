@@ -29,9 +29,9 @@ I love building **fullstack applications**, experimenting with **game developmen
 ## 🚀 Featured Projects  
 Here are some cool things I’ve built:
 
-- 🎮 [Game Project](https://rafsanalhad.itch.io/) – Unity game with online leaderboard  
-- 🌐 [Portfolio Website](https://rafsanalhad.vercel.app) – Built with Next.js & TailwindCSS  
-- 🔐 [Cyber Tools](https://github.com/rafsanalhad/cyber-tools) – Custom security scripts for pentesting  
+- 🎮 [![Itch.io](https://img.shields.io/badge/Games-Itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://rafsanalhad.itch.io/) – All of my indie games & experiments  
+- 🌐 [![Portfolio](https://img.shields.io/badge/Website-Portfolio-2694E8?style=flat-square&logo=vercel&logoColor=white)](https://rafsanalhad.vercel.app) – Built with Next.js & TailwindCSS  
+- 🔐 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-2D2D2D?style=flat-square&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/rafsanalhad) – Cyber security journey  
 
 ---
 
